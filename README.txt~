@@ -15,12 +15,3 @@ Ao cadastrar questoes o professor poderar gerenciar as mesmas e gerar arquivos p
 da prova e do seu gabarito.
 
 
-1 - Especificações:
-
-Existem dois tipos de questões, sendo elas: questões abertas, que possui uma única resposta, e questões fechadas que possuem alternativas.
-
-As alternativas possuem status, que armazena o valor de verdadeiro ou falso. Além de possuir uma letra.
-
-
-
-
